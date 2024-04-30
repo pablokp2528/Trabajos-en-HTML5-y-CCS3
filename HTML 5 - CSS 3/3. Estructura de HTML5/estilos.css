@@ -1,0 +1,22 @@
+body{
+    background-color: cornflowerblue;
+    font-family: Helvetica, "Trebuchet MS", Verdana, sans-serif;
+}
+
+h1{
+    color:  crimson;
+}
+
+h1, h2{
+    text-align: center;
+}
+
+p{
+    color: cornsilk;
+    /*Aqui se controla el tamaño de la letra*/
+    font-size: 15 px;
+}
+
+div h2{
+    color: darkblue;
+}
